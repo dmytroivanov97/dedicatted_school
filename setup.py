@@ -2,6 +2,7 @@ import setuptools
 
 with open("README.md", "r") as fh:
     long_description = fh.read()
+    print(long_description)
 
 setuptools.setup(
     name="metabase-api",
