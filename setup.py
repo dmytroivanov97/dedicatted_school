@@ -3,7 +3,7 @@ import setuptools
 with open("README.md", "r") as fh:
     long_description = fh.read()
     print(long_description)
-    print('i was here and made changes in a new branch)
+    print('i was here and made changes in a new branch')
     print('my new changes in branch1')
     print('add new print line for try making changes on the remote repository')
 
